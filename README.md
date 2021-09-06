@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bem vindo ao submundo, o que desejas?
 
-You can use the [editor on GitHub](https://github.com/PhantomBlastk/PhantomBlastk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Aqui você irá econtrar diversas informações completamente irrelevantes e que não tem importância em contexto algum.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
