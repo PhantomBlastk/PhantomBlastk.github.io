@@ -1,19 +1,15 @@
 ## Bem vindo ao submundo, o que desejas?
 
+Who am i? am i a not unique, maybe I'm not here at all (desculpa pelo trocadilho com música de P5).
 Aqui você irá econtrar diversas informações completamente irrelevantes e que não tem importância em contexto algum.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Redes Sociais 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Abaixo terá algumas das minhas redes sociais se quiser seguir ou me adicionar, vale a pena (eu acho)
 
-```markdown
-Syntax highlighted code block
+## Twitter : @Phantomblastk
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
