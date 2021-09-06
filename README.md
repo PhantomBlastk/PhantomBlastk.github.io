@@ -4,12 +4,19 @@ Who am i? am i a not unique, maybe I'm not here at all (desculpa pelo trocadilho
 Aqui você irá econtrar diversas informações completamente irrelevantes e que não tem importância em contexto algum.
 
 
-### Redes Sociais 
+## Redes Sociais 
 
 Abaixo terá algumas das minhas redes sociais se quiser seguir ou me adicionar, vale a pena (eu acho)
 
-## Twitter : @Phantomblastk
-
+### Twitter : [@Phantomblastk](https://bit.ly/2VjFSjd)
+### My Anime List
+### Instagram
+### Steam
+### Playstation Network
+### Backloggd
+### Steam
+### Youtube
+### Reddit
 
 - Bulleted
 - List
